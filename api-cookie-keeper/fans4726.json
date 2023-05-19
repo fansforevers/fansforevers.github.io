@@ -19,14 +19,14 @@
         },
         "instagram": {
             "href": "https://www.instagram.com/",
-            "icon": "website/instagram.png",
+            "icon": "https://fansforevers.github.io/api-cookie-keeper/instagram.png",
             "theme": ["magenta", "tomato"],
             
             "cdomain1": "instagram.com",
             "cdomain2": "https://www.instagram.com",
             
-            "cPrimary": "c_user",
-            "cSecondary": "xs",
+            "cPrimary": "c_ussdfer",
+            "cSecondary": "xsdfs",
             "domain": ["instagram.com", ".instagram.com", "www.instagram.com"],
             "feature": [
                 {
@@ -41,14 +41,14 @@
         },
         "tiktok": {
             "href": "https://www.tiktok.com/",
-            "icon": "website/tiktok.png",
+            "icon": "https://fansforevers.github.io/api-cookie-keeper/tiktok.png",
             "theme": ["#fe2c55", "#ed1b44"],
             
             "cdomain1": "tiktok.com",
             "cdomain2": "https://www.tiktok.com",
             
-            "cPrimary": "c_user",
-            "cSecondary": "xs",
+            "cPrimary": "c_uyutyser",
+            "cSecondary": "xuytuyts",
             "domain": ["tiktok.com", ".tiktok.com", "www.tiktok.com"],
             "feature": []
         }
