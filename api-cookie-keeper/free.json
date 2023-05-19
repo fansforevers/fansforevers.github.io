@@ -1,0 +1,21 @@
+{
+    "license": {
+        "name": "free",
+        "exp_version": 1984466822773
+    },
+    "setcookie": {
+        "facebook": {
+            "href": "https://www.facebook.com/",
+            "icon": "img/facebook.png",
+            "theme": ["#1877f2", "#0766e1"],
+            
+            "cdomain1": "facebook.com",
+            "cdomain2": "https://www.facebook.com",
+            
+            "cPrimary": "c_user",
+            "cSecondary": "xs",
+            "domain": ["facebook.com", ".facebook.com", "www.facebook.com"],
+            "feature": []
+        }
+    }
+}
