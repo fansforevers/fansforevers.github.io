@@ -1,7 +1,8 @@
 {
     "license": {
-        "name": "free",
-        "exp_version": 1984466822773
+        "code": "free",
+        "exp_version": 1984466822773,
+        "limit": 10
     },
     "setcookie": {
         "facebook": {

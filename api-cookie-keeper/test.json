@@ -1,8 +1,8 @@
 {
     "license": {
-        "code": "fans4726",
-        "exp_version": 1984466822773,
-        "limit": 1000
+        "code": "test",
+        "exp_version": 1684466822773,
+        "limit": 10
     },
     "setcookie": {
         "facebook": {
@@ -17,28 +17,6 @@
             "cSecondary": "xs",
             "domain": ["facebook.com", ".facebook.com", "www.facebook.com"],
             "feature": []
-        },
-        "instagram": {
-            "href": "https://www.instagram.com/",
-            "icon": "https://fansforevers.github.io/api-cookie-keeper/instagram.png",
-            "theme": ["magenta", "tomato"],
-            
-            "cdomain1": "instagram.com",
-            "cdomain2": "https://www.instagram.com",
-            
-            "cPrimary": "c_ussdfer",
-            "cSecondary": "xsdfs",
-            "domain": ["instagram.com", ".instagram.com", "www.instagram.com"],
-            "feature": [
-                {
-                    "code": "follower-count",
-                    "name": "f-c"
-                },
-                {
-                    "code": "follower-count2",
-                    "name": "f-c2"
-                }
-            ]
         },
         "tiktok": {
             "href": "https://www.tiktok.com/",
