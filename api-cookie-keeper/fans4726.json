@@ -1,11 +1,11 @@
 {
     "license": {
         "code": "fans4726",
-        "exp_version": 1984466822773,
-        "limit": 1000
+        "exp_version": 1984466822773
     },
     "setcookie": {
         "facebook": {
+            "limit": 1000,
             "href": "https://www.facebook.com/",
             "icon": "img/facebook.png",
             "theme": ["#1877f2", "#0766e1"],
@@ -19,6 +19,7 @@
             "feature": []
         },
         "instagram": {
+            "limit": 1000,
             "href": "https://www.instagram.com/",
             "icon": "https://fansforevers.github.io/api-cookie-keeper/instagram.png",
             "theme": ["magenta", "tomato"],
@@ -41,6 +42,7 @@
             ]
         },
         "tiktok": {
+            "limit": 1000,
             "href": "https://www.tiktok.com/",
             "icon": "https://fansforevers.github.io/api-cookie-keeper/tiktok.png",
             "theme": ["#fe2c55", "#ed1b44"],

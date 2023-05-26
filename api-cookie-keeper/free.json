@@ -1,11 +1,11 @@
 {
     "license": {
         "code": "free",
-        "exp_version": 1984466822773,
-        "limit": 10
+        "exp_version": 1984466822773
     },
     "setcookie": {
         "facebook": {
+            "limit": 10,
             "href": "https://www.facebook.com/",
             "icon": "img/facebook.png",
             "theme": ["#1877f2", "#0766e1"],
