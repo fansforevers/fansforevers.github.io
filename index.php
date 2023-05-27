@@ -9,6 +9,12 @@
 <body>
     <h1>Hello World!</h1>
 
+    <?php
+        echo "welcome";
+    ?>
+
+    
+
     <script src="javascript.js"></script>
 </body>
 </html>
